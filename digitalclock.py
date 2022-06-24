@@ -19,8 +19,8 @@ def time():
 
 # Styling the label widget so that clock
 # will look more attractive
-lbl = Label(root, font = ('calibri', 40, 'bold'),
-			background = 'purple',
+lbl = Label(root, font = ('algeria', 40, 'bold'),
+			background = 'green',
 			foreground = 'white')
 
 # Placing clock at the centre
